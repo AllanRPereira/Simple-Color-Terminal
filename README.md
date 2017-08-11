@@ -2,15 +2,15 @@
 ## Objetivos
 O objetivo desse projeto, é criar uma camada de abstração entre o programador, e as funcionalidades que os códigos de escape do ANSI proporcionam
 
-## Como usar[PYTHON3]
+## Como usar
 O software é bem simples, e não há nenhum requerimento para que seja executado da maneira certa, sendo que basta apenas importar os arquivos do projeto e usar em suas aplicações, código para usar logo abaixo:
 
-```
+```python
 import beatiful_font
 import cursor
 ```
 
-Obs.: Software testado apenas no ambiente Linux
+Obs.: Software testado apenas no ambiente Linux e funciona apenas com Python3
 
 ## Funcionalidades
 ### Cursor
