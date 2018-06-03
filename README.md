@@ -1,4 +1,4 @@
-# Ansi Terminal
+# Simple Color Terminal
 ## Objetivos
 O objetivo desse projeto, é criar uma camada de abstração entre o programador, e as funcionalidades que os códigos de escape do ANSI proporcionam
 
